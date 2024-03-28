@@ -8,7 +8,7 @@ pytest-cov==3.0.0
 joblib==1.1.0
 python-jwt==3.2.5
 poetry==1.0.0a4
-pipreqs==0.4.11
+pipreqs==0.4.13
 PyPDF2==1.27.8
 
 pickle5; python_version == '3.7' and platform_python_implementation != 'PyPy'
