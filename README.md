@@ -1,5 +1,5 @@
 # multiple-branches
 
-CVE-2022-40898 is present in branch with vuln. commit
+CVE-2022-40898 is present in branch with vuln. commit 
 
 
